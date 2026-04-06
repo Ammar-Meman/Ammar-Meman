@@ -5,13 +5,13 @@
   <br/>
   
   <p align="center">
-    <a href="mailto:your.email@example.com">
+    <a href="mailto:ammar.meman.cg@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/ammar-meman">
+    <a href="https://www.linkedin.com/in/ammarmeman/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/AmmarMeman">
+    <a href="https://x.com/AmmarMemanCG">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
   </p>
@@ -84,17 +84,20 @@
 
 <br/>
 
-### 📊 Telemetry & Activity
+### 📡 System Logs
 
-<div align="center">
-  <br/>
-  <!-- Using the elegant TokyoNight Theme -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ammar-Meman&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7" alt="Ammar's GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar-Meman&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" alt="Top Languages" width="48%">
-</div>
+```javascript
+> ammar.getCurrentStatus()
+{
+  status: "Online",
+  activities: [
+    "Building scalable full-stack applications",
+    "Architecting performance-driven backend APIs",
+    "Designing highly interactive user interfaces"
+  ],
+  currently_learning: ["Advanced System Architecture", "Cloud Deployments"]
+}
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammar-Meman&theme=tokyonight&hide_border=true&fire=7aa2f7&ring=7aa2f7" alt="GitHub Streak" width="100%">
-</div>
+> ammar.getInterests()
+["SaaS Development", "UI/UX Engineering", "Algorithms"]
+```
