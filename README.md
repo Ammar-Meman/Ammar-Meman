@@ -23,8 +23,6 @@ I am a **full-stack developer** focused on building practical, real-world applic
 
 🎓 **B.E. Computer Science** student at **Swaminarayan University, Kalol**
 
-🚀 **Hackathon Winner** at Gandhinagar University for the Smart Appointment Scheduling System
-
 - 🔭 I'm currently working on **Full-Stack Web Architectures**
 - 🌱 I'm currently practicing **DSA systematically on LeetCode**
 - 💬 Ask me about **React, Node.js, Express.js, MongoDB**
